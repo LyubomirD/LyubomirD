@@ -47,6 +47,9 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LyubomirD&show_icons=true&locale=en" alt="LyubomirD" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LyubomirD&show_icons=true&theme=apprentice" alt="LyubomirD" /></p>
+ 
+
+
 
 
